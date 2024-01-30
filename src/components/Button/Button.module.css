@@ -1,0 +1,35 @@
+.primary_btn{
+    padding:10px 7px;
+    background-color: black;
+    color: white;
+    min-width: 220px;
+    border-radius: 5px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap: 32px;
+
+}
+
+
+.outline_btn{
+    padding:10px 7px;
+    background-color:white;
+    color: black;
+    min-width: 480px;
+    border-radius: 5px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    font-weight: 550;
+    outline: white;
+    border: 1px solid black;
+    gap:2px;
+
+
+}
+
+
+
+
+
